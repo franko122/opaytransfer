@@ -5,7 +5,7 @@ three.addEventListener('click' , ()=>{
     let wel = document.getElementById("wel");
     let ede = document.getElementById("ede")
     let three = document.getElementById("three"); 
-        let Username = "frank" 
+        let Username = "franklin" 
         let password = "developer"   
         if  ( one.value == Username && two.value == password) {  
             wel.style.display="block"
