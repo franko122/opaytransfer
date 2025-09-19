@@ -68,7 +68,7 @@ body{
 .downside{
     width: 95%;
     margin: auto;  
-    background-color: #eeee;
+    background-color:rgba(2, 181, 115, 0.83);
     color:black;
 }
 .zona{
